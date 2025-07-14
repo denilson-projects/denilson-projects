@@ -4,8 +4,8 @@
  <h3><strong><a href="https://github.com/denilson-projects/open-tagada">OPEN TAGADÀ</a></strong> Make a tagadà from 0, 110% open-source</h3>
   <br>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K6ZARHD)
-[![discord]()](https://discord.gg/mMTkY7ssZ2)
+[![ko-fi](https://github.com/denilson-projects/denilson-projects/tree/main/assets/links/ko-fi.svg)](https://ko-fi.com/K3K6ZARHD)
+[![discord](https://github.com/denilson-projects/denilson-projects/tree/main/assets/links/discord.svg)](https://discord.gg/mMTkY7ssZ2)
   
   <h3><i>My Skills</i></h3>
   <img align="center" width="30px" src="./assets/languages/python.svg">
