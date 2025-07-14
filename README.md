@@ -5,6 +5,7 @@
   <br>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K6ZARHD)
+[![discord]()](https://discord.gg/mMTkY7ssZ2)
   
   <h3><i>My Skills</i></h3>
   <img align="center" width="30px" src="./assets/languages/python.svg">
