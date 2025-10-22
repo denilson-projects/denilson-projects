@@ -4,7 +4,7 @@
  <h3><strong><a href="https://github.com/denilson-projects/open-tagada">OPEN TAGADÀ</a></strong> Make a tagadà from 0, 110% open-source</h3>
   <br>
 
-<a href="https://ko-fi.com/denilson_p">
+<a href="[https://ko-fi.com/denilson_p](https://www.paypal.com/donate/?hosted_button_id=5ND8VF7DTQRHC)">
   <img src="https://raw.githubusercontent.com/denilson-projects/denilson-projects/refs/heads/main/assets/links/ko-fi.svg" width="223"/>
 </a>
 <a href="https://t.me/denilson_lab">
