@@ -7,7 +7,7 @@
 <a href="https://ko-fi.com/denilson_p">
   <img src="https://raw.githubusercontent.com/denilson-projects/denilson-projects/refs/heads/main/assets/links/ko-fi.svg" width="223"/>
 </a>
-<a href="https://discord.gg/mMTkY7ssZ2">
+<a href="https://t.me/denilson_lab">
   <img src="https://raw.githubusercontent.com/denilson-projects/denilson-projects/refs/heads/main/assets/links/discord.svg" width="223"/>
 </a>
   
